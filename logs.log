@@ -1,0 +1,40 @@
+info: Label🏷️: May-03-2021 12:54:36: [object Object]
+info: Label🏷️: May-03-2021 12:54:36: [object Object]
+error: Label🏷️: May-03-2021 18:06:22: productSearch --> k is not defined
+error:  May-03-2021 18:08:52: productSearch --> k is not defined
+error: May-03-2021 18:18:13: productSearch --> k is not defined
+error: May-03-2021 18:20:28: productSearch --> k is not defined
+error: May-03-2021 18:21:58: productSearch --> k is not defined
+error: May-03-2021 18:23:50: productSearch --> k is not defined
+error: May-03-2021 18:24:41: productSearch --> k is not defined
+error: May-03-2021 18:26:33: productSearch --> k is not defined
+error: May-03-2021 19:13:28: productSearch --> test is not defined
+error: May-03-2021 19:18:44: productSearch --> test is not defined
+error: May-03-2021 19:40:08: productSearch --> Cannot read property '0' of undefined
+error: May-03-2021 19:40:36: productSearch --> 403 - "<html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n</body>\r\n</html>\r\n"
+error: May-03-2021 19:41:29: productSearch --> 403 - "<html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n</body>\r\n</html>\r\n"
+error: May-03-2021 19:42:35: productSearch --> 403 - "<html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n</body>\r\n</html>\r\n"
+error: May-03-2021 19:44:32: productSearch --> 403 - "<html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n</body>\r\n</html>\r\n"
+error: May-03-2021 19:45:33: productSearch --> 403 - "<html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n</body>\r\n</html>\r\n"
+error: May-10-2021 20:49:27: productSearch --> 401 - "{\"error\":[\"Access Denied.\"]}"
+error: May-10-2021 20:50:01: productSearch --> 401 - "{\"error\":[\"Access Denied.\"]}"
+error: Jun-10-2021 16:46:51: productSearch --> 401 - "{\"error\":[\"Access Denied.\"]}"
+error: Jun-10-2021 16:47:45: productSearch --> 401 - "{\"error\":[\"Access Denied.\"]}"
+error: Jun-10-2021 16:48:11: productSearch --> 500 - "{\"type\":\"com.amzscout.exceptions.ServiceException\",\"message\":\"kwsearch.limit.exceeded\"}"
+error: Jun-10-2021 17:42:30: productSearch --> 401 - "{\"error\":[\"Access Denied.\"]}"
+error: Jun-10-2021 20:49:53: productSearch --> 401 - "{\"error\":[\"Access Denied.\"]}"
+error: Jun-10-2021 20:50:37: productSearch --> 401 - "{\"error\":[\"Access Denied.\"]}"
+error: Jun-10-2021 20:50:41: productSearch --> 401 - "{\"error\":[\"Access Denied.\"]}"
+error: Jun-10-2021 21:04:12: opportunity --> Unexpected token o in JSON at position 1
+error: Jun-10-2021 21:05:48: opportunity --> 400 - "{\"error\":[\"Invalid request.\"]}"
+error: Jun-10-2021 21:06:14: opportunity --> 400 - "{\"error\":[\"Invalid request.\"]}"
+error: Jun-10-2021 21:06:54: opportunity --> 400 - "{\"error\":[\"Invalid request.\"]}"
+error: Jun-10-2021 21:08:07: opportunity --> 400 - "{\"error\":[\"Invalid request.\"]}"
+error: Jun-10-2021 21:08:34: opportunity --> 400 - "{\"error\":[\"Invalid request.\"]}"
+error: Jun-10-2021 21:09:06: opportunity --> 400 - "{\"error\":[\"Invalid request.\"]}"
+error: Jun-10-2021 21:10:31: opportunity --> 400 - "{\"error\":[\"Invalid request.\"]}"
+error: Jun-14-2021 14:59:43: productSearch --> 401 - "{\"error\":[\"Access Denied.\"]}"
+error: Jun-14-2021 15:05:15: productSearch --> data is not defined
+error: Jun-14-2021 15:06:51: productSearch --> 401 - "{\"error\":[\"Access Denied.\"]}"
+error: Jun-14-2021 15:08:33: productSearch --> 401 - "{\"error\":[\"Access Denied.\"]}"
+error: Jun-14-2021 15:09:33: productSearch --> 401 - "{\"error\":[\"Access Denied.\"]}"
